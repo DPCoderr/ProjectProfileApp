@@ -13,19 +13,19 @@ that must be met for the final project and ultimately assess it with feedback af
 questions arise. By adhering to this, we will receive the assigned credits in return.
 
 Most important features:
-- Login and Register
+- Login and Register:
   Users must log in with their account or register if they do not have an account yet. Forgotten account name and password must also be checked.
 
-- Profile management
+- Profile management:
   Registered users can create, edit and delete their personal profiles. These profiles will contain information about school performance, work experience and hobbies.
 
-- School performance
+- School performance:
   Users should be able to add, edit and delete school achievements, including information about schools, diplomas and grades.
 
-- Work experience
+- Work experience:
   Users should be able to enter, edit and delete their work experience, including details about employers, job titles and dates.
 
-- Hobbies
+- Hobbies:
   Users can share their hobbies and interests, as well as images and descriptions of them.
 
 User stories:
