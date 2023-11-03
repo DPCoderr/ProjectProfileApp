@@ -1,7 +1,7 @@
 # ProjectProfileApp
 
 Project description:
-For the study "Software Development"(year 1) at Windesheim College, 
+For the study "Software Development" (year 1) at Windesheim College, 
 we were asked to create a web portfolio application in the first period using HTML/CSS/JS/php/mySQL. 
 The purpose of this application is that you can easily create a portfolio and edit it at any time. 
 This means you have to spend less time on making an own portfolio and you can show in a creative way 
